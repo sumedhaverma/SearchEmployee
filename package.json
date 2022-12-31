@@ -6,7 +6,7 @@
     "griddle-react": "^1.13.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "react-scripts": "1.1.1",
+    "react-scripts": "5.0.1",
     "reactstrap": "^8.0.0"
   },
   "scripts": {
